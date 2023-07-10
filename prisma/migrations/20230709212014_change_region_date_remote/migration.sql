@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `cars_facebook` MODIFY `date_remote` DATETIME(0) NOT NULL DEFAULT CURRENT_TIMESTAMP(0);
